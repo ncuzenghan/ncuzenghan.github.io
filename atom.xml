@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>散修涵</title>
   
-  <subtitle>不负时光，努力向上#副标题</subtitle>
+  <subtitle>不负时光，努力向上</subtitle>
   <link href="http://example.com/atom.xml" rel="self"/>
   
   <link href="http://example.com/"/>
@@ -10,7 +10,7 @@
   <id>http://example.com/</id>
   
   <author>
-    <name>散修涵#作者</name>
+    <name>散修涵</name>
     
   </author>
   
